@@ -25,6 +25,8 @@ pushd package/lean
 git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
 # git clone --depth=1 https://github.com/kang-mk/luci-app-smartinfo
 git clone --depth=1 https://github.com/tty228/luci-app-serverchan
+git clone --depth=1 https://github.com/brvphoenix/wrtbwmon
+git clone --depth=1 https://github.com/brvphoenix/luci-app-wrtbwmon
 git clone --depth=1 https://github.com/jerrykuku/lua-maxminddb.git
 git clone --depth=1 https://github.com/jerrykuku/luci-app-vssr.git
 # git clone --depth=1 https://github.com/destan19/OpenAppFilter.git
