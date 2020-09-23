@@ -27,13 +27,13 @@ git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
 git clone --depth=1 https://github.com/tty228/luci-app-serverchan
 git clone --depth=1 https://github.com/brvphoenix/wrtbwmon
 git clone --depth=1 https://github.com/brvphoenix/luci-app-wrtbwmon
-git clone --depth=1 https://github.com/jerrykuku/lua-maxminddb.git
-git clone --depth=1 https://github.com/jerrykuku/luci-app-vssr.git
+# it clone --depth=1 https://github.com/jerrykuku/lua-maxminddb.git
+# git clone --depth=1 https://github.com/jerrykuku/luci-app-vssr.git
 # git clone --depth=1 https://github.com/destan19/OpenAppFilter.git
 git clone --depth=1 https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk
 git clone --depth=1 https://github.com/BoringCat/luci-app-mentohust.git
 
 # Add ssr plus+
-git clone --depth=1 https://github.com/OpenWrt-Actions/helloworld/tree/master/luci-app-ssr-plus
-git clone --depth=1 https://github.com/OpenWrt-Actions/helloworld/tree/master/naiveproxy
-git clone --depth=1 https://github.com/OpenWrt-Actions/helloworld/tree/master/tcping
+# git clone --depth=1 https://github.com/OpenWrt-Actions/helloworld/tree/master/luci-app-ssr-plus
+# git clone --depth=1 https://github.com/OpenWrt-Actions/helloworld/tree/master/naiveproxy
+# git clone --depth=1 https://github.com/OpenWrt-Actions/helloworld/tree/master/tcping
